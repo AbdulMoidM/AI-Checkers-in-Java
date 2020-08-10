@@ -1,5 +1,7 @@
-**Collaborators: Sufian Mushtaq, Nishith Atreya **
+**Collaborators: Sufian Mushtaq, Nishith Atreya**
+
 **Note: Due to the University of Rochester Computer Science Department's project guidelines, I cannot share the entire code of this project publicly, thus I have replaced many parts of this project with comments for privacy reasons.**
+
 There are four main classes defined in our game.
 **Main.java --** This is the driver class for our game. It will ask the user to enter the game size,
 color choice and the kind of algorithm it wants to play with. To start the game, the user just has
